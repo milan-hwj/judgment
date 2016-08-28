@@ -4,7 +4,7 @@
 ---
 ### Step 1:Install
 ```javascript
-npm install judyment --save
+npm install judgment --save
 ```
 
 ### Step 2:Import
