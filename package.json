@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/milan-hwj/judgment.git"
   },
   "keywords": [
     "judgment"
@@ -17,7 +17,7 @@
   "author": "milan-hwj",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/milan-hwj/judgment/issues"
   },
   "dependencies": {
     "babel": "~6.1.18",
@@ -32,7 +32,7 @@
     "babel-runtime": "^6.2.0",
     "extract-text-webpack-plugin": "^0.9.1"
   },
-  "homepage": "",
+  "homepage": "https://github.com/milan-hwj/judgment.git",
   "devDependencies": {
     "babel-cli": "^6.10.1",
     "babel-preset-es2015": "^6.9.0"

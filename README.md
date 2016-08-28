@@ -24,11 +24,11 @@ let judg = Judgment({
         () => { if(s > 10) {return true;} return false;}
     ],
     relations: {
-        // '*' means ignore this condision
+        // '*' means ignore this condition
         // '111*' is equals '111'
         'result1': ['1111', '111*'],
         'result2': ['1000'],
-        // '****' or '' means ignore all condision
+        // '****' or '' means ignore all condition
         'result3': ['****']
     }
     // If conditions can match with several results, then return the first result, deault: false
