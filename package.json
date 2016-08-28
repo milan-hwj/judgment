@@ -1,0 +1,40 @@
+{
+  "name": "judgment",
+  "version": "0.1.10",
+  "description": "judgment",
+  "main": "./dist/main.js",
+  "scripts": {
+    "build": "babel src --presets babel-preset-es2015 --out-dir dist",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "judgment"
+  ],
+  "author": "milan-hwj",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "babel": "~6.1.18",
+    "babel-core": "~6.1.19",
+    "babel-loader": "~6.1.0",
+    "babel-plugin-antd": "^0.4.0",
+    "babel-plugin-transform-runtime": "^6.1.18",
+    "babel-polyfill": "^6.2.0",
+    "babel-preset-es2015": "~6.1.18",
+    "babel-preset-react": "~6.1.18",
+    "babel-preset-stage-0": "^6.1.18",
+    "babel-runtime": "^6.2.0",
+    "extract-text-webpack-plugin": "^0.9.1"
+  },
+  "homepage": "",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
