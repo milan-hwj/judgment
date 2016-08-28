@@ -1,6 +1,6 @@
 {
   "name": "judgment",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "description": "judgment",
   "main": "./dist/main.js",
   "scripts": {
@@ -20,6 +20,12 @@
     "url": "https://github.com/milan-hwj/judgment/issues"
   },
   "dependencies": {
+    
+  },
+  "homepage": "https://github.com/milan-hwj/judgment.git",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0",
     "babel": "~6.1.18",
     "babel-core": "~6.1.19",
     "babel-loader": "~6.1.0",
@@ -31,10 +37,5 @@
     "babel-preset-stage-0": "^6.1.18",
     "babel-runtime": "^6.2.0",
     "extract-text-webpack-plugin": "^0.9.1"
-  },
-  "homepage": "https://github.com/milan-hwj/judgment.git",
-  "devDependencies": {
-    "babel-cli": "^6.10.1",
-    "babel-preset-es2015": "^6.9.0"
   }
 }
