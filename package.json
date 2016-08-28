@@ -1,6 +1,6 @@
 {
   "name": "judgment",
-  "version": "0.1.10",
+  "version": "0.2.0",
   "description": "judgment",
   "main": "./dist/main.js",
   "scripts": {
